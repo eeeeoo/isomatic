@@ -1,0 +1,19 @@
+body{
+  font-family: "Roboto" , sans-serif;
+}
+
+.headline{
+  padding-top:50px;
+  font-size:40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:#EF5826;
+}
+
+p {
+  font-size:16px;
+}
+
+#carouselExampleIndicators{
+  background-color:black;
+}
