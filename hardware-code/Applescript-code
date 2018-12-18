@@ -1,0 +1,7 @@
+tell application "Spotify"
+	play track "spotify:user:1274296868:playlist:39LMRHP83O4QWBBJE7TLKb"
+	set artistName to artist of current track
+	set trackName to name of current track
+	set trackNum to track number of current track
+	say "hot playlist" & trackName
+end tell
